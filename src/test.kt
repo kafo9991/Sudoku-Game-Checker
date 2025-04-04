@@ -157,9 +157,7 @@ fun main(){
         ),
         correctResult = true
     )
-    // single column
-    // single row
-    // single empty list
+
 
 }
 
